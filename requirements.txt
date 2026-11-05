@@ -1,2 +1,7 @@
 streamlit
 paho-mqtt
+numpy
+Pillow
+opencv-python-headless
+onnxruntime
+hsemotion-onnx
